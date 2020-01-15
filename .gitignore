@@ -4,3 +4,4 @@ bin
 # Editor directories and files
 .idea
 .vscode
+*.exe
